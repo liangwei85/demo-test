@@ -30,3 +30,6 @@ def get_drinks():
         output.append(drink_data)
         
     return {"drinks": output}
+
+def uselessfunc():
+    pass
